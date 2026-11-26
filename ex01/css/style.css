@@ -1,0 +1,37 @@
+body {
+            display: flex;
+        }
+
+        .blue_paragrahps {
+            line-height: 1.7 px;
+            color: #0033CC;
+            font-style: italic;
+        }
+
+        .red_paragrahps {
+            line-height: 1.7 px;
+            color: #D40000;
+            font-style: italic;
+        }
+
+        .article {
+            width: 640px;
+            margin: auto;
+            background-color: #FFFDE7;
+            text-align: center;
+            padding: 24px;
+            border-style: solid;
+            border-width: 1px;
+            border-color: #9E9E9E;
+        }
+
+        #header {
+            color: #D40000;
+            background-color: #FFD9E6;
+            font-size: 26 px;
+        }
+
+        hr {
+            width: 55%;
+            border-top: 1px solid #0033CC
+        }
